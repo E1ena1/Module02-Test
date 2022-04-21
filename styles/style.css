@@ -6,3 +6,6 @@ p {
     border-bottom: 2px solid blue;
     width: 100px;
 }
+img {
+    border: 1px solid #000;
+}
